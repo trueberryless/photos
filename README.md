@@ -32,4 +32,4 @@ pnpm dev
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/photos/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/photos/blob/main/LICENSE) for more information.
